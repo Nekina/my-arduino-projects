@@ -145,5 +145,5 @@ scale will appear. Move the knob along the scale to adjust brightness.*
 <br><br>
 
 * * *
-<br><br>
-##### More to come soon...
+<br>
+#### More to come soon...
