@@ -24,7 +24,7 @@
 Electronics Engineer and programming enthusiast, and I just made this 
 simple site to display my Arduino projects🙂 You can also reach me on my 
 socials below for any questions, suggestions, or just something to talk 
-about. Hope you enjoy!😁
+about. Hope you enjoy!😁</p>
 </div>
 <br>
 <div class="small-icon">
