@@ -16,14 +16,14 @@ img {
     align-items: center }
 .text2 {
     margin-left: 5px;
-    margin-top: 10px;
+    margin-top: 0px;
     font-size: 10px; 
     margin-right: 30px;}
 </style>
 
 <div class="chibi-img">
     <div class="image">
-        <img src="Chibi Photo No BG.png" height="280px">
+        <img src="Chibi Photo No BG.png" height="280px" width="171px">
     </div>
     <div class="text1">
         <p>Hi! I'm <strong>Joshua Aniken Acusta</strong>, an 
