@@ -58,7 +58,7 @@ about. Hope you enjoy!😁</p>
 This 2-digit counter uses the blinking effect, a technique on LED displays 
 to turn the LEDs ON and OFF at a rate fast enough that the naked eye can 
 only recognize the ON state. This technique allows the Arduino 
-microcontroller to execute commands in between the "delays" which enables 
+to execute commands in between the "delays" which enables 
 it to detect the user's button input almost instantaneously.
 
 ### Main Features
@@ -78,8 +78,7 @@ used, and Arduino script on the embedded simulation below.
 
 <iframe width="1000" height="600" src="https://www.tinkercad.com/embed/1wnJTy0ySJD?editbtn=1" frameborder="20" marginwidth="0" marginheight="0" scrolling="no"></iframe>  
 
-*Note: Use **LEFT** button for count-down and **RIGHT** button for count-
-up.*
+*Note: Use **LEFT** button for count-down and **RIGHT** button for count-up.*
 <br><br>
 
 # 16x2 LCD Display with Scroll-Up/Down
@@ -105,8 +104,8 @@ scroll-up.*
 
 In this project, the patterns are programmed via AVR programming (i.e. 
 by directly controlling the registers of the ATmega328p microcontroller 
-chip) and timer overflow interrupts. A kind-of non-conventional way to 
-do it but definitely worth for practice!
+chip) and timer overflow interrupts. A kind-of unconventional way to 
+do it but definitely worth it for practice!
 
 ### Main Features
 
@@ -122,7 +121,7 @@ Just sit back and watch!😁
 
 <iframe width="1000" height="600" src="https://www.tinkercad.com/embed/hnWyz2fGR3u?editbtn=1" frameborder="20" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-*Note: If you're planning to make this project in real life, ensure that 
+*Note: If you're planning to assemble this project, ensure that 
 the resistors have high enough resistance values to prevent overcurrent 
 on the digital/analog pins (at most 20mA as specified)*
 <br><br>
@@ -146,5 +145,5 @@ scale will appear. Move the knob along the scale to adjust brightness.*
 <br><br>
 
 * * *
-
+<br><br>
 ##### More to come soon...
