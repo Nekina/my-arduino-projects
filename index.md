@@ -1,7 +1,4 @@
 ﻿<style>
-img {
-  max-width: 100%;
-  max-height:100%; }
 .chibi-img {
     display: flex;
     justify-content: center;
@@ -23,7 +20,7 @@ img {
 
 <div class="chibi-img">
     <div class="image">
-        <img src="Chibi Photo No BG.png" height="280px" width="171px">
+        <img src="Chibi Photo No BG.png" height="280" width="500">
     </div>
     <div class="text1">
         <p>Hi! I'm <strong>Joshua Aniken Acusta</strong>, an 
