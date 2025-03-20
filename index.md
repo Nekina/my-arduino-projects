@@ -72,15 +72,81 @@ buttons
 
 ### Simulation
 
-I used Tinkercad to simulate my project first before assembling it. You 
-can also check out the project's schematic diagram, materials used, and 
-Arduino script on the simulation below.  
-*Note: Use **LEFT** button for count-down and **RIGHT** button for count-
-up.*
+I used <a href="https://www.tinkercad.com/">Tinkercad</a> to simulate each of my projects first before assembling 
+it. You can also check out each project's schematic diagram, materials 
+used, and Arduino script on the embedded simulation below.  
 <!--
 <iframe width="1000" height="600" src="https://www.tinkercad.com/embed/1wnJTy0ySJD?editbtn=1" frameborder="20" marginwidth="0" marginheight="0" scrolling="no"></iframe>  
 -->
-<br>
-<br>
+*Note: Use **LEFT** button for count-down and **RIGHT** button for count-
+up.*
+<br><br>
 
 # 16x2 LCD Display with Scroll-Up/Down
+
+This is a simple application of LCD Displays using Arduino to generate a 
+physics word problem with some controls.
+
+### Main Features
+
+- Has Scroll up/down buttons
+- Can Replay (move back to top) once bottom is reached and scroll-down 
+button is pressed
+
+### Simulation
+
+<!--
+<iframe width="1000" height="600" src="https://www.tinkercad.com/embed/1spXzD81hc9?editbtn=1" frameborder="20" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+-->
+*Note: Use **LEFT** button for scroll-down and **RIGHT** button for 
+scroll-up.*
+<br><br>
+
+# Running Lights using AVR Programming
+
+In this project, the patterns are programmed via AVR programming (i.e. 
+by directly controlling the registers of the ATmega328p microcontroller 
+chip) and timer overflow interrupts. A kind-of non-conventional way to 
+do it but definitely worth for practice!
+
+### Main Features
+
+- Repeats each pattern 3 times, then loops back to the first pattern
+- Only 10 digital pins and 2 analog pins (for GND) are used to control 
+each of the 20 LEDs separately and without the blinking effect
+- More memory-efficient than traditional Arduino programming (i.e. such 
+as using `digitalRead()` and `digitalWrite()` functions)
+
+### Simulation
+
+Just sit back and watch!😁
+<!--
+<iframe width="1000" height="600" src="https://www.tinkercad.com/embed/hnWyz2fGR3u?editbtn=1" frameborder="20" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+-->
+*Note: If you're planning to make this project in real life, ensure that 
+the resistors have high enough resistance values to prevent overcurrent 
+on the digital/analog pins (at most 20mA as specified)*
+<br><br>
+
+# Reverse Light Intensity Scale
+
+This may look like a scale in the simulation but I actually put the LEDs 
+on a small hand-made cotton tree. Basically, the darker the environment 
+gets, the more LEDs are turned ON, as shown in the video below.
+
+<video height="500" width="500" controls>
+    <source src="LED Tree.mp4">
+</video>
+
+### Simulation
+
+<!--
+<iframe width="1000" height="600" src="https://www.tinkercad.com/embed/38S0IrgjxhJ?editbtn=1" frameborder="20" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+-->
+*Note: To change the light intensity, click the LDR, then a horizontal 
+scale will appear. Move the knob along the scale to adjust brightness.*
+<br><br>
+
+* * *
+
+##### More to come soon...
