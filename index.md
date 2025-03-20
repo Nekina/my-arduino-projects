@@ -44,6 +44,12 @@ about. Hope you enjoy!😁</p>
     <div class="text2">
         <p> <a href="https://www.linkedin.com/in/joshua-aniken-acusta-225854167/">LinkedIn</a></p>
     </div>
+    <div class="image">
+        <img src="Tinkercad Logo.png" height="20px">
+    </div>
+    <div class="text2">
+        <p> <a href="https://www.tinkercad.com/users/5gdFlX2YV2B-joshua-aniken-acusta">Tinkercad</a></p>
+    </div>
 </div>
 <br><br>
 
