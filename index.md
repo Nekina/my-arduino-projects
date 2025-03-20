@@ -21,7 +21,6 @@ schematic diagram, materials used, and Arduino script on the simulation below.
 <iframe width="1000" height="600" src="https://www.tinkercad.com/embed/1wnJTy0ySJD?editbtn=1" frameborder="20" marginwidth="0" marginheight="0" scrolling="no"></iframe>  
 
 <br></br>
-*******
 <br></br>
 
 # 16x2 LCD Display with Scroll-Up/Down
