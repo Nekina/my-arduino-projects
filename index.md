@@ -140,8 +140,9 @@ gets, the more LEDs are turned ON, as shown in the video below.
 
 <iframe width="1000" height="600" src="https://www.tinkercad.com/embed/38S0IrgjxhJ?editbtn=1" frameborder="20" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-*Note: To change the light intensity, click the LDR, then a horizontal 
-scale will appear. Move the knob along the scale to adjust brightness.*
+*Note: To change the light intensity, click the **photoresistor/light 
+dependent resistor**, then a horizontal scale will appear. Move the 
+knob along the scale to adjust brightness.*
 <br><br>
 
 * * *
