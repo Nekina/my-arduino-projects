@@ -75,9 +75,9 @@ buttons
 I used <a href="https://www.tinkercad.com/">Tinkercad</a> to simulate each of my projects first before assembling 
 it. You can also check out each project's schematic diagram, materials 
 used, and Arduino script on the embedded simulation below.  
-<!--
+
 <iframe width="1000" height="600" src="https://www.tinkercad.com/embed/1wnJTy0ySJD?editbtn=1" frameborder="20" marginwidth="0" marginheight="0" scrolling="no"></iframe>  
--->
+
 *Note: Use **LEFT** button for count-down and **RIGHT** button for count-
 up.*
 <br><br>
@@ -95,9 +95,8 @@ button is pressed
 
 ### Simulation
 
-<!--
 <iframe width="1000" height="600" src="https://www.tinkercad.com/embed/1spXzD81hc9?editbtn=1" frameborder="20" marginwidth="0" marginheight="0" scrolling="no"></iframe>
--->
+
 *Note: Use **LEFT** button for scroll-down and **RIGHT** button for 
 scroll-up.*
 <br><br>
@@ -120,9 +119,9 @@ as using `digitalRead()` and `digitalWrite()` functions)
 ### Simulation
 
 Just sit back and watch!😁
-<!--
+
 <iframe width="1000" height="600" src="https://www.tinkercad.com/embed/hnWyz2fGR3u?editbtn=1" frameborder="20" marginwidth="0" marginheight="0" scrolling="no"></iframe>
--->
+
 *Note: If you're planning to make this project in real life, ensure that 
 the resistors have high enough resistance values to prevent overcurrent 
 on the digital/analog pins (at most 20mA as specified)*
@@ -140,9 +139,8 @@ gets, the more LEDs are turned ON, as shown in the video below.
 
 ### Simulation
 
-<!--
 <iframe width="1000" height="600" src="https://www.tinkercad.com/embed/38S0IrgjxhJ?editbtn=1" frameborder="20" marginwidth="0" marginheight="0" scrolling="no"></iframe>
--->
+
 *Note: To change the light intensity, click the LDR, then a horizontal 
 scale will appear. Move the knob along the scale to adjust brightness.*
 <br><br>
