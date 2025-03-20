@@ -20,7 +20,7 @@
 
 <div class="chibi-img">
     <div class="image">
-        <img src="Chibi Photo No BG.png" height="280" width="171">
+        <img src="Chibi Photo No BG.png" width="600">
     </div>
     <div class="text1">
         <p>Hi! I'm <strong>Joshua Aniken Acusta</strong>, an 
