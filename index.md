@@ -1,4 +1,7 @@
 ﻿<style>
+img {
+  max-width: 100%;
+  max-height:100%; }
 .chibi-img {
     display: flex;
     justify-content: center;
@@ -10,26 +13,40 @@
 .small-icon {
     display: flex;
     justify-content: left;
-    align-items: left }
+    align-items: center }
 .text2 {
     margin-left: 5px;
-    margin-top: 5;
-    font-size: 15px; }
+    margin-top: 10px;
+    font-size: 10px; 
+    margin-right: 30px;}
 </style>
 
-<br>
 <div class="chibi-img">
-  <img src="Chibi Photo No BG.png" height="280px">
-  <p class="text1">Hi! I'm <strong>Joshua Aniken Acusta</strong>, an 
+    <div class="image">
+        <img src="Chibi Photo No BG.png" height="280px">
+    </div>
+    <div class="text1">
+        <p>Hi! I'm <strong>Joshua Aniken Acusta</strong>, an 
 Electronics Engineer and programming enthusiast, and I just made this 
 simple site to display my Arduino projects🙂 You can also reach me on my 
 socials below for any questions, suggestions, or just something to talk 
 about. Hope you enjoy!😁</p>
+    </div>
 </div>
 <br>
 <div class="small-icon">
-    <img src="FB Logo No BG.png" height="20px">
-    <p class="text2"> <a href="https://www.facebook.com/joshuacusta/">joshuacusta</a></p>
+    <div class="image">
+        <img src="FB Logo No BG.png" height="20px">
+    </div>
+    <div class="text2">
+        <p> <a href="https://www.facebook.com/joshuacusta/">Facebook</a></p>
+    </div>
+    <div class="image">
+        <img src="LinkedIN Logo No BG.png" height="20px">
+    </div>
+    <div class="text2">
+        <p> <a href="https://www.linkedin.com/in/joshua-aniken-acusta-225854167/">LinkedIn</a></p>
+    </div>
 </div>
 <br><br>
 
