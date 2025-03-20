@@ -25,4 +25,4 @@ schematic diagram, materials used, and Arduino script on the simulation below.
 
 # 16x2 LCD Display with Scroll-Up/Down
 
-![My Photo](Chibi Photo No BG.png)
+![My Photo](Chibi Photo No BG.png) Hello! I am Joshua Aniken Acusta, an Electronics Engineer and programming enthusiast.
