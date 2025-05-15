@@ -34,15 +34,15 @@
 <div class="link-container">
     <div class="link">
         <img src="FB Logo No BG.png" height="20px">
-        <a href="https://www.facebook.com/joshuacusta/">Facebook</a>
+        <a href="https://www.facebook.com/joshuacusta/" target="_blank" rel="noopener noreferrer">Facebook</a>
     </div>
     <div class="link">
         <img src="LinkedIN Logo No BG.png" height="20px">
-        <a href="https://www.linkedin.com/in/joshua-aniken-acusta-225854167/">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/joshua-aniken-acusta-225854167/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
     </div>
     <div class="link">
         <img src="Tinkercad Logo.png" height="20px">
-        <a href="https://www.tinkercad.com/users/5gdFlX2YV2B-joshua-aniken-acusta">Tinkercad</a>
+        <a href="https://www.tinkercad.com/users/5gdFlX2YV2B-joshua-aniken-acusta" target="_blank" rel="noopener noreferrer">Tinkercad</a>
     </div>
 </div>
 <br><br>
