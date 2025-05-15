@@ -2,7 +2,9 @@
     .header-container {
         display: flex;
         justify-content: center;
-        align-items: center
+        align-items: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
     .text {
         margin-left: 5px;
@@ -21,6 +23,11 @@
         gap: 5px;
         font-size: 10px;
     }
+    .iframe-container {
+        display: flex;
+        justify-content: center;
+    }
+    
 </style>
 
 <div class="header-container">
@@ -66,11 +73,21 @@ buttons
 
 ### Simulation
 
-I used <a href="https://www.tinkercad.com/">Tinkercad</a> to simulate each of my projects first before assembling 
+I used <a href="https://www.tinkercad.com/" target="_blank" rel="noopener noreferrer">Tinkercad</a> to simulate each of my projects first before assembling 
 it. You can also check out each project's schematic diagram, materials 
 used, and Arduino script on the embedded simulation below.  
 
-<iframe width="1000" height="600" src="https://www.tinkercad.com/embed/1wnJTy0ySJD?editbtn=1" frameborder="20" marginwidth="0" marginheight="0" scrolling="no"></iframe>  
+<div class="iframe-container">
+    <iframe
+        width="1000"
+        height="600"
+        src="https://www.tinkercad.com/embed/1wnJTy0ySJD?editbtn=1"
+        frameborder="20"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+    ></iframe>
+</div>
 
 *Note: Use **LEFT** button for count-down and **RIGHT** button for count-up.*
 <br><br>
@@ -88,7 +105,17 @@ button is pressed
 
 ### Simulation
 
-<iframe width="1000" height="600" src="https://www.tinkercad.com/embed/1spXzD81hc9?editbtn=1" frameborder="20" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<div class="iframe-container">
+    <iframe
+        width="1000"
+        height="600"
+        src="https://www.tinkercad.com/embed/1spXzD81hc9?editbtn=1"
+        frameborder="20"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+    ></iframe>
+</div>
 
 *Note: Use **LEFT** button for scroll-down and **RIGHT** button for 
 scroll-up.*
@@ -113,7 +140,17 @@ as using `digitalRead()` and `digitalWrite()` functions)
 
 Just sit back and watch!😁
 
-<iframe width="1000" height="600" src="https://www.tinkercad.com/embed/hnWyz2fGR3u?editbtn=1" frameborder="20" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<div class="iframe-container">
+    <iframe
+        width="1000"
+        height="600"
+        src="https://www.tinkercad.com/embed/hnWyz2fGR3u?editbtn=1"
+        frameborder="20"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+    ></iframe>
+</div>
 
 *Note: If you're planning to assemble this project, ensure that 
 the resistors have high enough resistance values to prevent overcurrent 
@@ -126,13 +163,25 @@ This may look like a scale in the simulation but I actually put the LEDs
 on a small hand-made cotton tree. Basically, the darker the environment 
 gets, the more LEDs are turned ON, as shown in the video below.
 
-<video height="500" width="500" controls>
-    <source src="LED Tree.mp4">
-</video>
+<div class="iframe-container">
+    <video height="500" width="500" controls>
+        <source src="LED Tree.mp4">
+    </video>
+</div>    
 
 ### Simulation
 
-<iframe width="1000" height="600" src="https://www.tinkercad.com/embed/38S0IrgjxhJ?editbtn=1" frameborder="20" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<div class="iframe-container">
+    <iframe
+        width="1000"
+        height="600"
+        src="https://www.tinkercad.com/embed/38S0IrgjxhJ?editbtn=1"
+        frameborder="20"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+    ></iframe>
+</div>
 
 *Note: To change the light intensity, click the **photoresistor/light 
 dependent resistor**, then a horizontal scale will appear. Move the 
