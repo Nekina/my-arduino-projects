@@ -1,54 +1,48 @@
 ﻿<style>
-.chibi-img {
-    display: flex;
-    justify-content: center;
-    align-items: center }
-.text1 {
-    margin-left: 5px;
-    margin-top: 0;
-    font-size: 25px; }
-.small-icon {
-    display: flex;
-    justify-content: left;
-    align-items: center }
-.text2 {
-    margin-left: 5px;
-    margin-top: 0px;
-    font-size: 10px; 
-    margin-right: 30px;}
+    .header-container {
+        display: flex;
+        justify-content: center;
+        align-items: center
+    }
+    .text {
+        margin-left: 5px;
+        margin-top: 0;
+        font-size: 25px;
+    }
+    .link-container {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 20px;
+    }
+    .link {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        font-size: 10px;
+    }
 </style>
 
-<div class="chibi-img">
-    <div class="image">
+<div class="header-container">
+    <div>
         <img src="Chibi Photo No BG.png" width="600">
     </div>
-    <div class="text1">
-        <p>Hi! I'm <strong>Joshua Aniken Acusta</strong>, an 
-Electronics Engineer and programming enthusiast, and I just made this 
-simple site to display my Arduino projects🙂 You can also reach me on my 
-socials below for any questions, suggestions, or just something to talk 
-about. Hope you enjoy!😁</p>
+    <div class="text">
+        <p>Hi! I'm <strong>Joshua Aniken Acusta</strong>, an Electronics Engineer and now a Front-End Web Developer, and I just made this simple site to display my Arduino projects🙂 You can also reach me on my socials below for any questions, suggestions, or just something to talk about. Hope you enjoy!😁</p>
     </div>
 </div>
-<br>
-<div class="small-icon">
-    <div class="image">
+<div class="link-container">
+    <div class="link">
         <img src="FB Logo No BG.png" height="20px">
+        <a href="https://www.facebook.com/joshuacusta/">Facebook</a>
     </div>
-    <div class="text2">
-        <p> <a href="https://www.facebook.com/joshuacusta/">Facebook</a></p>
-    </div>
-    <div class="image">
+    <div class="link">
         <img src="LinkedIN Logo No BG.png" height="20px">
+        <a href="https://www.linkedin.com/in/joshua-aniken-acusta-225854167/">LinkedIn</a>
     </div>
-    <div class="text2">
-        <p> <a href="https://www.linkedin.com/in/joshua-aniken-acusta-225854167/">LinkedIn</a></p>
-    </div>
-    <div class="image">
+    <div class="link">
         <img src="Tinkercad Logo.png" height="20px">
-    </div>
-    <div class="text2">
-        <p> <a href="https://www.tinkercad.com/users/5gdFlX2YV2B-joshua-aniken-acusta">Tinkercad</a></p>
+        <a href="https://www.tinkercad.com/users/5gdFlX2YV2B-joshua-aniken-acusta">Tinkercad</a>
     </div>
 </div>
 <br><br>
